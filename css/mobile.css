@@ -1,0 +1,40 @@
+html {
+  font-size: 15px;
+}
+
+.top-div {
+  padding: 3%;
+  width: 90%;
+  margin: 5% auto 5%;
+}
+
+.top-div p {
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+
+.card-section {
+  flex-direction: column;
+  margin: 0;
+}
+
+.card-cover {
+  align-self: center;
+  width: 80%;
+  height: 70%;
+}
+
+.card {
+  margin-right: 0px;
+  margin-bottom: 15%;
+}
+
+.card-cover.move-up {
+  position: relative;
+  margin-top: 0px;
+}
+
+.card-cover.move-down {
+  position: relative;
+  margin-top: 0px;
+}
